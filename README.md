@@ -19,9 +19,10 @@ To use flatuicolor.css in your website, simply drop the stylesheet into your doc
 </head>
 ```
 
-Pick name of the color you'd like to use from [Flat Color Picker] then use it in combination of section name.
 
 There are 3 sections of styling: background-color (.bg-color-name), border-color (.border-color-name) and color (.text-color-name). Just use section name + color name in your code.
+
+Pick name of the color you'd like to use from [Flat Color Picker]
 
 ```
 <div class="bg-flamingo text-derby>
