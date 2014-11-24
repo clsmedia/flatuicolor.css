@@ -4,6 +4,10 @@ flatuicolor.css
 
 # Flat UI Color CSS
 
+## See in action
+
+[DEMO]
+
 ## Usage
 
 To use flatuicolor.css in your website, simply drop the stylesheet into your document's ```<head>```
@@ -29,4 +33,5 @@ some code here
 
 [Flat Color Picker]:http://www.flatuicolorpicker.com
 [CLS Media]:http://www.clsmedia.pl
+[DEMO]:http://jsfiddle.net/j81kf6k9
 
