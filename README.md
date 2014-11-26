@@ -32,7 +32,7 @@ some code here
 
 ### Credits
 * CSS by [CLS Media]
-* Colors by: [Flat Color Picker] - HTML enhanced for web apps!
+* Colors by: [Flat Color Picker]
 
 [Flat Color Picker]:http://www.flatuicolorpicker.com
 [CLS Media]:http://www.clsmedia.pl
